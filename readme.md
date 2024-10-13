@@ -1,1 +1,1 @@
-IMPORT MOCK FILE INTO 
+IMPORT MOCK FILE INTO helper config and create a new instance on DeployScript
